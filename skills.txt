@@ -1,0 +1,39 @@
+Базовая теория тестирования
+Клиент-серверная архитектура
+HTTP-методы
+
+Коды ответов HTTP
+Структуры HTTP-запросов и ответов
+
+Структура JSON и XML
+
+Тестирование API через Postman
+Снятие и чтение логов с внешнего сервера
+
+Сниффинг HTTP WEB трафика через Charles и Fiddler
+
+DevTools
+VPN
+
+Мобильное тестирование
+Особенность iOS, Android
+
+Сборка Android приложений в Android Studio
+
+ADB,
+Настройка proxi и VPN на Android/iOS
+
+Сниффинг трафика на iOS/Android через Charles и Fiddler
+Командная строка Linux,
+Основы Bash скриптинг
+Доступ к удаленным серверам
+
+SQL
+Postgree
+
+Redis
+
+Нагрузочное тестирование в Jmeter
+
+Scrum
+Python
